@@ -1,0 +1,15 @@
+Administrator:
+Username: admin1
+Password: password1
+
+Administrator:
+Username: admin2
+Password: password2
+
+Customer:
+Username: user1
+Password: password1
+
+Customer:
+Username: user2
+Password: password2
