@@ -1,3 +1,3 @@
-My Supermarket 
-AEM 3432
+My Supermarket with
+AEM 3432 and
 Name: Ευφροσύνη Πατσίλη
